@@ -1,4 +1,4 @@
-##FB-ASIC-DESIGN
+## FB-ASIC-DESIGN
 
 Openlane toolarını kullanarak FB-CPU işlemci tasarımını ASIC'e dönüştürme.
 
